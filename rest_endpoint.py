@@ -2,13 +2,14 @@ from flask import Flask, request
 import pandas as pd
 import numpy as np
 import json
+import os
 import openai
 from openai.embeddings_utils import cosine_similarity
 
 app = Flask(__name__)
 df = pd.read_csv('embbeded_question.csv')
 df['ada_embedding'] = df.ada_embedding.apply(eval).apply(np.array)
-openai.api_key_path = 'openai_api_key'
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def get_embedding(text, model="text-embedding-ada-002"):
 	text = text.replace("\n", " ")
@@ -33,7 +34,3 @@ def getTopQns():
 		mimetype='application/json'
 	)
 	return response
-
-if __name__ == '__main__':
-	print('app starting')
-	app.run()
