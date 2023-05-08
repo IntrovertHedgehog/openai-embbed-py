@@ -7,7 +7,7 @@ import openai
 import logging
 import sys
 import json
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from openai.embeddings_utils import cosine_similarity
 from llama_index import GPTTreeIndex, StorageContext, load_index_from_storage
 
