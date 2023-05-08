@@ -12,10 +12,8 @@ from openai.embeddings_utils import cosine_similarity
 from llama_index import GPTTreeIndex, StorageContext, load_index_from_storage
 
 app = Flask(__name__)
-load_dotenv()
+# load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
-# openai.api_key_path = 'openai_api_key'
-print(openai.api_key)
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -62,6 +60,7 @@ def getResTreeIndex():
     query_engine = tree_index.as_query_engine()
     data={"response": query_engine.query(question).response}
     data_json=json.dumps(data)
+    print(data_json)
     response = app.response_class(
         response=data_json,
         status=200,
@@ -78,5 +77,5 @@ def test():
         mimetype="application/json"
     )
 
-if __name__ == "__main__":
-   app.run()
+# if __name__ == "__main__":
+#    app.run()
