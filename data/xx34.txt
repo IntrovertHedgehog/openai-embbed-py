@@ -1,0 +1,9 @@
+question: How often should I check my blood sugar levels?
+answer: The frequency at which you check your blood sugar depends on the type of diabetes you have and whether you take any diabetes medication. You should discuss this with your healthcare provider. Typical times to check blood sugar tend to be: 
+1. Immediately after waking up, before you eat or drink anythin. 
+2. Before eating. 
+3. After 2 hours of eating. 
+4. When you feel giddy/confused/sweaty/very hungry. 
+5. Before/after exercise. 
+6. When you are sick or not feeling well. 
+7. At bedtime

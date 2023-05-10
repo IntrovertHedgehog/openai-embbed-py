@@ -1,0 +1,4 @@
+question: What is prediabetes?
+answer: Before people develop type 2 diabetes, almost all pass through the prediabetes stage where blood glucose levels are higher than normal, but not high enough to be considered as frank or overt diabetes. Importantly, having prediabetes means you are likely to progress on to diabetes in the near future. 
+Fasting glucose of someone with prediabetes is between 6.1-6.9 mmol/L and 2-hour plasma glucose after oral glucose tolerance test is between 7.8-11.0 mmol/L. There are no clear symptoms of prediabetes and the only reliable method of diagnosis is through blood tests. 
+Source: Win Against Diabetes Booklet.

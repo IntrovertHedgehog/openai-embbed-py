@@ -1,0 +1,3 @@
+question: What is Impaired Glucose Tolerance (IGT)?
+answer: Impaired glucose tolerance is a condition that occurs before one develops diabetes. It means that blood sugar levels are elevated but not elevated enough to warrant a diagnosis of diabetes. Usually, insulin and glucose levels are in equilibrium. If the blood glucose level is high, the body will produce more insulin to bring the glucose level down. This is called a feedback mechanism. 
+Source: Red Ants Crawling to My Urine, Healthline https://www.healthline.com/health/impaired-glucose-tolerance.

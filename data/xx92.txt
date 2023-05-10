@@ -1,0 +1,3 @@
+question: Where should I avoid injecting insulin?
+answer: Avoid injecting close to the navel as insulin absorption will not be consistent. Also, avoid injecting close to moles, scars, or hardened areas, or areas that will be exercised soon as exercising increases blood low, which causes insulin to be absorbed at a rate that is faster than usual.
+Source: Win Against Diabetes Booklet.

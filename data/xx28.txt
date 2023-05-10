@@ -1,0 +1,2 @@
+question: What is glucose?
+answer: Glucose comes from our food and is also produced by the liver. It is the main source of energy for the body's cells and is transported through the bloodstream. Glucose needs to enter cells to be used.

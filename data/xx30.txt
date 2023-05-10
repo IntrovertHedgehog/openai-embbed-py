@@ -1,0 +1,5 @@
+question: How is diabetes diagnosed?
+answer: The following several blood tests can be done to find out whether you have diabetes: 
+1. Random blood glucose test: Measures blood glucoe level without fasting or regard to when you last ate. 
+2. Fasting blood glucose test: Measures blood glucose level after an overnight fast for at least 8 hours. 
+3. Oral glucose tolerance test: Measures blood glucose level before and 2 hours after you have consumed 75g of a sugary drink.

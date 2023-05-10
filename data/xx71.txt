@@ -1,0 +1,3 @@
+question: What are the treatments available for diabetic retinopathy?
+answer: In most cases, laser surgery can prevent significant vision loss associated with diabetic retinopathy. Laser surgery can be performed to seal or destroy growing or leaking blood vessels in the retina. 
+Source: Win Against Diabetes Booklet.

@@ -1,0 +1,5 @@
+question: Why is my blood glucose level high in the morning even though I did not eat anything?
+answer: There are several reasons why your blood glucose level may be high in the morning even if you haven't eaten anything: 
+1. Even during fasting periods, your liver releases stored glucose into your blood. People with diabetes havea relatively higher glucose release from their liver, hence your glucose may be high even when you have not eaten anything. 
+2. Your body may be producing stress hormones during an illness. Medications prescribed during illnesses (e.g. steroids) can also increase glucose levels. 
+3. Consumption of larger meals, that are high in carbohydrates and fat, at late hours can lead to higher post-meal blood glucose levels over an extended period of time.,Hence, it is advised to consume your last meal 3 hours before bedtime and try brisk walking for 30 minutes daily. If you find yourself craving a late-night snack, opt for healthy snacks such as half an apple, or plain yoghurt with nuts.

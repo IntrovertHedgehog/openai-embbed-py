@@ -1,0 +1,2 @@
+question: What is BMI?
+answer: BMI stands for body mass index. It is measured by a person's weight (in kilograms) divided by the square of height (in metres).

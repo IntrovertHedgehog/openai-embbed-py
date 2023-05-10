@@ -1,0 +1,3 @@
+question: What is the ideal target for my pre-meal blood glucose level?
+answer: Pre-meal levels between 4-8 mmol/L is a good target to aim for, for most people with diabetes.
+Source: Win Against Diabetes Booklet.

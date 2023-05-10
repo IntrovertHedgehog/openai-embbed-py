@@ -1,0 +1,2 @@
+question: What are the complications of diabetes?
+answer: Diabetes, when poorly-controlled, results in multiple complications. Diabetes is a leading cause of blindness, kidney failure, limb amputation, heart attack and stroke.

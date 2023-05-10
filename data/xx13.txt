@@ -1,0 +1,2 @@
+question: Is testing my glucose levels with only HbA1c enough?
+answer: Glucose levels can fluctuate markedly throughout the day. As the HbA1c is done only once every 3 to 4 months, periodically self-monitoring your capillary blood glucose levels and how high or low it has been can help you make timely changes to your lifestyle and dietary choices. You can easily check your glucose levels daily with a glucometer, or with a continuous glucose sensor.

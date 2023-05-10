@@ -1,0 +1,4 @@
+question: What should my blood sugar be?
+answer: The more glucose readings you take, the better it will help you gauge how you are doing. The blood glucose glucose targets given below are a general guide only. Check with you doctor or nurse about your individualised blood glucose targets. 
+Pre-meal levels between 4-8 mmol/L is a good target to aim for, for most people with diabetes. 2 hours post-meal levels of less than 10 mmol/L is a good target to aim for, for most people with diabetes.
+Source: Win Against Diabetes Booklet.

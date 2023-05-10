@@ -1,0 +1,12 @@
+question: Who is most at risk of developing type 2 diabetes?
+answer: You're more likely to develop type 2 diabetes if you:
+- Are overweight or obese (BMI of 23.0 kg/m² or higher)
+- Lead an inactive lifestyle
+- Are 40 years old and above
+- Have a parent or sibling with diabetes
+- Have a history of gestational diabetes
+- Have impaired glucose tolerance or impaired fasting glucose
+- Have abnormal blood cholesterol or lipid levels
+- Have high blood pressure
+Source: HealthHub
+https://www.healthhub.sg/a-z/diseases-and-conditions/676/pocket-guide-to-diabetes.

@@ -1,0 +1,2 @@
+question: What is a normal BMI?
+answer: For Asians in Singapore, a BMI value between 18.5 and 22.9 indicates a healthy weight, whereas a BMI value of 23 and above is considered overweight.

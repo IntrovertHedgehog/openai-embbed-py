@@ -1,0 +1,10 @@
+question: I am sick. What should I do?
+answer: Here are some tips to manage sick days:
+- See a doctor
+- Get plenty of sleep
+- Eat regular meals
+- Drink plenty of plain water
+- Take medication/insulin as per normal
+- Check blood glucose levels more frequently (if unusually high, see a doctor immediately)
+Source: HealthHub
+https://www.healthhub.sg/a-z/diseases-and-conditions/676/pocket-guide-to-diabetes.

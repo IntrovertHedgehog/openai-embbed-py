@@ -1,0 +1,3 @@
+question: What is the ideal target for my bedtime blood glucose level?
+answer: Bedtime levels between 6-8 mmol/L is a good target to aim for, for most people with diabetes.
+Source: Win Against Diabetes Booklet.

@@ -1,0 +1,6 @@
+question: What can increase risk of hypoglycaemia?
+answer: If you are on insulin injections or on oral glucose-lowering tablets like sulphonylureas, your risk of hypoglycaemia can be increased. This is in particular if have: 
+1. Performed physical activities (e.g. exercising) 
+2. Missed a meal or eaten less than you usually do for a meal
+3. Other conditions like renal impairment which can increase your risk of hypoglycaemia from medications.
+Source: Win Against Diabetes Booklet.

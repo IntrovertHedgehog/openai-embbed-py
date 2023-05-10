@@ -1,0 +1,2 @@
+question: What is diabetes?
+answer: Diabetes is a chronic condition characterised by high glucose levels.

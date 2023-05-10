@@ -1,0 +1,2 @@
+question: What is HbA1c?
+answer: HbA1c stands for haemoglobin A1c or glycated haemoglobin, which is haemoglobin to which glucose is bound. It is a blood test that estimates your average blood glucose level for the past 3 months. It is usually organised once every 3 to 4 months by your doctor at each visit to the clinic.

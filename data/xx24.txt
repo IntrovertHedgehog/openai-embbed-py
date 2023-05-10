@@ -1,0 +1,2 @@
+question: What are the symptoms of diabetes?
+answer: The early symptoms of diabetes may not be obvious, or there may be no symptoms at all. Nonetheless, some possible signs include excessive thirst and urination, fatigue, weight loss, blurred vision, slow-healing sores, and frequent infections.

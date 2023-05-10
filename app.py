@@ -9,7 +9,13 @@ import sys
 import json
 # from dotenv import load_dotenv
 from openai.embeddings_utils import cosine_similarity
-from llama_index import GPTTreeIndex, StorageContext, load_index_from_storage
+
+from llama_index import StorageContext, load_index_from_storage
+
+from llama_index.retrievers import VectorIndexRetriever
+from llama_index.indices.postprocessor import SimilarityPostprocessor
+from llama_index.query_engine import RetrieverQueryEngine
+from llama_index import ResponseSynthesizer
 
 app = Flask(__name__)
 # load_dotenv()
@@ -22,10 +28,29 @@ logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 df = pd.read_csv('embbeded_question.csv')
 df['ada_embedding'] = df.ada_embedding.apply(eval).apply(np.array)
 
-# init llama index
-persist_dir = "./tree"
-storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
+# init tree index
+storage_context = StorageContext.from_defaults(persist_dir='./tree')
 tree_index = load_index_from_storage(storage_context)
+
+# init vector store
+storage_context = StorageContext.from_defaults(persist_dir='./vector_store')
+vector_store_index = load_index_from_storage(storage_context)
+
+retriever = VectorIndexRetriever(
+    index=vector_store_index,
+    similarity_top_k=2
+)
+
+response_synthesizer = ResponseSynthesizer.from_args(
+    node_postprocessors=[
+        SimilarityPostprocessor(similarity_cutoff=0.85)
+    ]
+)
+
+vector_store_query_engine = RetrieverQueryEngine(
+    retriever=retriever,
+    response_synthesizer=response_synthesizer
+)
 
 def get_embedding(text, model="text-embedding-ada-002"):
 	text = text.replace("\n", " ")
@@ -59,6 +84,22 @@ def getResTreeIndex():
         return "No text found", 400
     query_engine = tree_index.as_query_engine()
     data={"response": query_engine.query(question).response}
+    data_json=json.dumps(data)
+    print(data_json)
+    response = app.response_class(
+        response=data_json,
+        status=200,
+        mimetype='application/json'
+    )
+    return response
+
+@app.route('/vector_store_index', methods=['POST'])
+def getResVtStIndex():
+    global vector_store_query_engine
+    question = request.get_json()['input']
+    if question is None:
+        return "No text found", 400
+    data={"response": vector_store_query_engine.query(question).response}
     data_json=json.dumps(data)
     print(data_json)
     response = app.response_class(

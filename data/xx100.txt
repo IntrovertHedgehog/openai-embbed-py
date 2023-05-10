@@ -1,0 +1,4 @@
+question: What foods contains carbohydrates?
+answer: Carbohydrates are found in a wide variety of foods, both healthy and unhealthy foods including but not restricted to bread, beans, milk, popcorn, potatoes, cookies, spaghetti, soft drinks and corn. They also come in many forms with the most common and abundant form being sugars, fibers, and starches.
+Source: Harvard School of Public
+https://www.hsph.harvard.edu/nutritionsource/carbohydrates/#:~:text=What%20are%20carbohydrates%3F,sugars%2C%20fibers%2C%20and%20starches..

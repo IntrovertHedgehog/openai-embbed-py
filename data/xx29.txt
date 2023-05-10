@@ -1,0 +1,2 @@
+question: What is insulin?
+answer: Insulin is the hormone that acts like a 'key' to allow glucose to enter cells. If the pancreas does not produce enough insulin, or cells are not able to respond well enough to insulin, glucose is unable to enter the cells. Glucose levels in the bloodstream rise, resulting in diabetes.

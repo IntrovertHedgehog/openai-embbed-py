@@ -1,0 +1,2 @@
+question: How will I know if my diabetes medicines are working?
+answer: Are your HbA1c, blood pressure and cholesterol levels close to or at your target levels?

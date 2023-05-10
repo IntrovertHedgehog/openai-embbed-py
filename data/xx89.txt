@@ -1,0 +1,3 @@
+question: What are the side effects of insulin?
+answer: Side effects of insulin may include hypoglycaemia and weight gain. 
+Source: Win Against Diabetes Booklet.

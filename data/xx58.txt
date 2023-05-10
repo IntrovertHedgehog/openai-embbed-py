@@ -1,0 +1,7 @@
+question: What are the risk factors for developing gestational diabetes?
+answer: If you satisfy any of the below, you are at a higher risk of developing gestational diabetes (GDM):
+1. A BMI of 23 kg/m2 and above
+2. First-degree relatives (parents, siblings or children) with diabetes 
+3. A personal history of GDM, or large babies weighing over 4 kg
+4. Previous poor pregnancy outcomes that are usually associated with diabetes, such as stillbirth. 
+Source: Win Against Diabetes Booklet.

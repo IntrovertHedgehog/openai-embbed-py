@@ -1,0 +1,11 @@
+question: Who is at risk for developing type 2 diabetes?
+answer: You are at risk for type 2 diabetes if you: 
+- Have prediabetes
+- Are overweight
+- Are not physically active
+- Have a family history of type 2 diabetes
+- Have high blood pressure
+- Have abnormal cholesterol and triglyceride levels
+- Have gestational diabetes
+- Have Polycystic ovary syndrome
+Source: Win Against Diabetes Booklet.

@@ -1,0 +1,3 @@
+question: Is Continuous Blood Glucose monitoring helpful for me?
+answer: There are benefits to using the Continuous Blood Glucose monitoring system. From the perspective of your healthcare team, it allows them to accurately detect asymptomatic or nocturnal hypoglycaemia and aids in adjustments of your medication and insulin doses, or even make nutritional adjustments. The system also contains alarms which can alert the user if the glucose level is rising or going below a pre-set threshold. IN addition, real-time continuous glucose monitoring may be combined with insulin pump therapy to allow for automated insulin suspension in response to a pre-set glucose level. 
+Source: Win Against Diabetes Booklet.

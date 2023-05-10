@@ -1,0 +1,3 @@
+question: What is Continuous Blood Glucose Monitoring?
+answer: Continuous Blood Glucose Monitoring samples interstitial glucose levels in your blood every few minutes and all these readings are collated to form glucose trajectory. This will allow a more complete picture of glucose trends and patterns to enable more precise insulin does titration. 
+Source: Win Against Diabetes Booklet.

@@ -1,0 +1,3 @@
+question: I don't quite understand the concepts of insulin and glucose in our body.
+answer: Put simply, the pancreas is the factory that produces insulin. Insulin is the key to control blood glucose. Glucose is fuel for the body. 
+Source: Red Ants Crawling to My Urine.

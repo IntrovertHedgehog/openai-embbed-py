@@ -1,0 +1,3 @@
+question: What are the side effects of GLP-1 receptor agonists?
+answer: Side effects of GLP-1 receptor agonists may include nausea, vomiting and diarrhoea.
+Source: Win Against Diabetes Booklet.

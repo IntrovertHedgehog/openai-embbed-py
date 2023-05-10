@@ -1,0 +1,2 @@
+question: Will eating and drinking too much sugary stuff cause diabetes?
+answer: Consuming too much of anything, including sugary food and drink, will likely lead to obesity, a major cause of insulin resistance. Excessive consumption of sugar puts the pancreas under tremendous stress to produce enough insulin to match the spikes in blood sugar levels. Over time, this may increase the risk of insulin resistance, poor blood glucose control and diabetes.
