@@ -7,7 +7,6 @@ import openai
 import logging
 import sys
 import json
-# from dotenv import load_dotenv
 from openai.embeddings_utils import cosine_similarity
 
 from llama_index import StorageContext, load_index_from_storage
@@ -17,8 +16,9 @@ from llama_index.indices.postprocessor import SimilarityPostprocessor
 from llama_index.query_engine import RetrieverQueryEngine
 from llama_index import ResponseSynthesizer
 
+from dotenv import load_dotenv
+load_dotenv()
 app = Flask(__name__)
-# load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
@@ -118,5 +118,5 @@ def test():
         mimetype="application/json"
     )
 
-# if __name__ == "__main__":
-#    app.run()
+if __name__ == "__main__":
+   app.run()
