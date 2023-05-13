@@ -20,3 +20,4 @@
 - [HyDE](https://gpt-index.readthedocs.io/en/latest/how_to/query/query_transformations.html#hyde-hypothetical-document-embeddings) is tried, but it does not improve the current model too much, plus it consumes more time and tokens
 - Single-step decomposition is potentially useful. It can answer more complex queries by transform the query into subquestion and check against the index. The current model does not have this capability, but will be integrated in the future to cover more use cases.
 - Default ranking suffers from some hallucination (e.g. How much carb and sugar shoul I eat?) (e.g. Is a diet high in sugar and carb bad for me?). Cohere Rerank Node post-processor is employed to mitigate. Result: Cohere rerank produces even more alien results.
+- Switching to curie produces significantly faster response, but accuracy suffer. Further engineering required to optimize this process.
