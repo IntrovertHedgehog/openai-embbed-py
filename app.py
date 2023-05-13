@@ -16,8 +16,8 @@ from llama_index.indices.postprocessor import SimilarityPostprocessor
 from llama_index.query_engine import RetrieverQueryEngine
 from llama_index import ResponseSynthesizer
 
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -118,5 +118,5 @@ def test():
         mimetype="application/json"
     )
 
-if __name__ == "__main__":
-   app.run()
+# if __name__ == "__main__":
+#    app.run()
