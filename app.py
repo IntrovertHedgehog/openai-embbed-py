@@ -62,20 +62,10 @@ def init_vector_store_002():
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor)
 
     vector_store_index = load_index_from_storage(storage_context=storage_context, service_context=service_context)
-    retriever = VectorIndexRetriever(
-        index=vector_store_index,
-        similarity_top_k=2
-    )
 
-    response_synthesizer = ResponseSynthesizer.from_args(
-        node_postprocessors=[
-            SimilarityPostprocessor(similarity_cutoff=0.85)
-        ]
-    )
-
-    vector_store_query_engine = RetrieverQueryEngine(
-        retriever=retriever,
-        response_synthesizer=response_synthesizer
+    vector_store_query_engine = vector_store_index.as_query_engine(
+        similarity_top_k=2,
+        node_postprocessors=[SimilarityPostprocessor(similarity_cutoff=0.85)],
     )
 
     return vector_store_query_engine
