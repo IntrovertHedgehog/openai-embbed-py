@@ -32,25 +32,53 @@ df['ada_embedding'] = df.ada_embedding.apply(eval).apply(np.array)
 storage_context = StorageContext.from_defaults(persist_dir='./tree')
 tree_index = load_index_from_storage(storage_context)
 
-# init vector store
-storage_context = StorageContext.from_defaults(persist_dir='./vector_store')
-vector_store_index = load_index_from_storage(storage_context)
+# init vector store (text-davinci-003)
+def init_vector_store_003():
+    storage_context = StorageContext.from_defaults(persist_dir='./vector_store')
+    vector_store_index = load_index_from_storage(storage_context)
 
-retriever = VectorIndexRetriever(
-    index=vector_store_index,
-    similarity_top_k=2
-)
+    retriever = VectorIndexRetriever(
+        index=vector_store_index,
+        similarity_top_k=2
+    )
 
-response_synthesizer = ResponseSynthesizer.from_args(
-    node_postprocessors=[
-        SimilarityPostprocessor(similarity_cutoff=0.85)
-    ]
-)
+    response_synthesizer = ResponseSynthesizer.from_args(
+        node_postprocessors=[
+            SimilarityPostprocessor(similarity_cutoff=0.85)
+        ]
+    )
 
-vector_store_query_engine = RetrieverQueryEngine(
-    retriever=retriever,
-    response_synthesizer=response_synthesizer
-)
+    vector_store_query_engine = RetrieverQueryEngine(
+        retriever=retriever,
+        response_synthesizer=response_synthesizer
+    )
+
+    return vector_store_query_engine
+
+def init_vector_store_002():
+    storage_context = StorageContext.from_defaults(persist_dir='./vector_store_vinci002')
+    vector_store_index = load_index_from_storage(storage_context)
+
+    retriever = VectorIndexRetriever(
+        index=vector_store_index,
+        similarity_top_k=2
+    )
+
+    response_synthesizer = ResponseSynthesizer.from_args(
+        node_postprocessors=[
+            SimilarityPostprocessor(similarity_cutoff=0.85)
+        ]
+    )
+
+    vector_store_query_engine = RetrieverQueryEngine(
+        retriever=retriever,
+        response_synthesizer=response_synthesizer
+    )
+
+    return vector_store_query_engine
+
+vector_store_query_engine = init_vector_store_003()
+vector_store_query_engine_002 = init_vector_store_002()
 
 def get_embedding(text, model="text-embedding-ada-002"):
 	text = text.replace("\n", " ")
@@ -100,6 +128,22 @@ def getResVtStIndex():
     if question is None:
         return "No text found", 400
     data={"response": vector_store_query_engine.query(question).response}
+    data_json=json.dumps(data)
+    print(data_json)
+    response = app.response_class(
+        response=data_json,
+        status=200,
+        mimetype='application/json'
+    )
+    return response
+
+@app.route('/vector_store_index_002', methods=['POST'])
+def getResVtStIndex():
+    global vector_store_query_engine
+    question = request.get_json()['input']
+    if question is None:
+        return "No text found", 400
+    data={"response": vector_store_query_engine_002.query(question).response}
     data_json=json.dumps(data)
     print(data_json)
     response = app.response_class(
