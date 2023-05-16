@@ -57,8 +57,11 @@ def init_vector_store_003():
 
 def init_vector_store_002():
     storage_context = StorageContext.from_defaults(persist_dir='./vector_store_vinci002')
-    vector_store_index = load_index_from_storage(storage_context)
 
+    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-002"))
+    service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor)
+
+    vector_store_index = load_index_from_storage(storage_context=storage_context, service_context=service_context)
     retriever = VectorIndexRetriever(
         index=vector_store_index,
         similarity_top_k=2
