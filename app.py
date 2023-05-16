@@ -16,8 +16,8 @@ from llama_index.indices.postprocessor import SimilarityPostprocessor
 from llama_index.query_engine import RetrieverQueryEngine
 from llama_index import ResponseSynthesizer
 
-# from dotenv import load_dotenv
-# load_dotenv()
+from dotenv import load_dotenv
+load_dotenv()
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -138,7 +138,7 @@ def getResVtStIndex():
     return response
 
 @app.route('/vector_store_index_002', methods=['POST'])
-def getResVtStIndex():
+def getResVtStIndexVinci2():
     global vector_store_query_engine
     question = request.get_json()['input']
     if question is None:
@@ -162,5 +162,5 @@ def test():
         mimetype="application/json"
     )
 
-# if __name__ == "__main__":
-#    app.run()
+if __name__ == "__main__":
+   app.run()
