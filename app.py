@@ -7,7 +7,6 @@ import firebase_admin
 import numpy as np
 import openai
 import pandas as pd
-from dotenv import load_dotenv
 from firebase_admin import firestore
 from flask import Flask, request
 from langchain import OpenAI
@@ -23,8 +22,9 @@ from llama_index.query_engine import RetrieverQueryEngine
 from llama_index.retrievers import VectorIndexRetriever
 from openai.embeddings_utils import cosine_similarity
 
-# load_dotenv()
-# app = Flask(__name__)
+from dotenv import load_dotenv
+load_dotenv()
+app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
