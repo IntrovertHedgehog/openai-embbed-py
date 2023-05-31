@@ -59,6 +59,8 @@ def makeResponseTalkJS(question, conversation_id):
     if question is None:
         return
     response = vector_store_query_engine_002.query(question).response
+    if response is None:
+        response = "This question is unanswerable"
     data = {"question": question, "response": response}
     _, response_ref = db.collection("vector-store-index-002").add(data)
     data["id"] = response_ref.id

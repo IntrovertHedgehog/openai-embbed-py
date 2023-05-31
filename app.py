@@ -193,6 +193,9 @@ def react_vector_store_index_002(id):
 
 @app.route("/vector-store-index-002-talkjs", methods=["POST"])
 def getResVtStIndexVinci2TalkJS():
+    sender_id = request.get_json(cache=True)["data"]["message"]["senderId"]
+    if sender_id == "23571113":
+        return app.response_class(status=200)
     question = request.get_json()["data"]["message"]["text"]
     conversation_id = request.get_json()["data"]["conversation"]["id"]
     makeResponseTalkJS.delay(question, conversation_id)
