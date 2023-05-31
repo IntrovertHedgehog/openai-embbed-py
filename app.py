@@ -7,6 +7,7 @@ import firebase_admin
 import numpy as np
 import openai
 import pandas as pd
+from dotenv import load_dotenv
 from firebase_admin import firestore
 from flask import Flask, request
 from langchain import OpenAI
@@ -22,7 +23,8 @@ from llama_index.query_engine import RetrieverQueryEngine
 from llama_index.retrievers import VectorIndexRetriever
 from openai.embeddings_utils import cosine_similarity
 
-from dotenv import load_dotenv
+from celery_app import makeResponseTalkJS
+
 load_dotenv()
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -33,7 +35,7 @@ logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 # firebase setup
 
 # Appliation Default credentials are automatically created.
-firebase_app = firebase_admin.initialize_app()
+# firebase_app = firebase_admin.initialize_app()
 db = firestore.client()
 
 # init embbedding
@@ -148,7 +150,7 @@ def getResVtStIndex():
 @app.route("/vector_store_index_002", methods=["POST"])
 def getResVtStIndexVinci2():
     global db
-    global query_engine
+    global vector_store_query_engine_002
     question = request.get_json()["input"]
     if question is None:
         return "No text found", 400
@@ -187,6 +189,14 @@ def react_vector_store_index_002(id):
         mimetype="application/json",
     )
     return response
+
+
+@app.route("/vector-store-index-002-talkjs", methods=["POST"])
+def getResVtStIndexVinci2TalkJS():
+    question = request.get_json()["data"]["message"]["text"]
+    conversation_id = request.get_json()["data"]["conversation"]["id"]
+    makeResponseTalkJS.delay(question, conversation_id)
+    return app.response_class(status=200)
 
 
 @app.route("/test")
