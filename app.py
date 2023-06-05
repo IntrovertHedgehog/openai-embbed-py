@@ -23,7 +23,7 @@ from llama_index.query_engine import RetrieverQueryEngine
 from llama_index.retrievers import VectorIndexRetriever
 from openai.embeddings_utils import cosine_similarity
 
-from celery_app import makeResponseTalkJS
+from celery_app import delete_message, makeResponseTalkJS
 
 load_dotenv()
 app = Flask(__name__)
@@ -194,13 +194,14 @@ def react_vector_store_index_002(id):
 @app.route("/vector-store-index-002-talkjs", methods=["POST"])
 def getResVtStIndexVinci2TalkJS():
     sender_id = request.get_json(cache=True)["data"]["message"]["senderId"]
-    isFinal = request.get_json()["data"]["message"]
-    print(isFinal)
+    fromSomeone = request.get_json()["data"]["message"]["custom"]["from"]
+    messageId = request.get_json()["data"]["message"]["id"]
+    conversation_id = request.get_json()["data"]["conversation"]["id"]
     if sender_id == "23571113":
         return app.response_class(status=200)
+    if fromSomeone is None:
+        delete_message.delay(conversation_id, messageId)
     question = request.get_json()["data"]["message"]["text"]
-    conversation_id = request.get_json()["data"]["conversation"]["id"]
-    messageId = request.get_json()["id"]
     makeResponseTalkJS.delay(question, conversation_id, messageId)
     return app.response_class(status=200)
 

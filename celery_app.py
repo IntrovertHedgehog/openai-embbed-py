@@ -76,9 +76,15 @@ def makeResponseTalkJS(question, conversation_id, messageId):
             "text": response,
             "sender": "23571113",
             "type": "UserMessage",
-            "referencedMessageId": messageId
+            "referencedMessageId": messageId,
         }
     ]
     requests.post(url=url, headers=headers, json=post_data)
     data_json = json.dumps(data)
     print(data_json)
+
+
+@celery.task()
+def delete_message(conversation_id, messageId):
+    url = f"https://api.talkjs.com/v1/{TALKJS_APPID}/conversations/{conversation_id}/messages/{messageId}"
+    requests.delete(url)
