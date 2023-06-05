@@ -53,7 +53,7 @@ TALKJS_APPID = "tE8jvP6M"
 
 
 @celery.task()
-def makeResponseTalkJS(question, conversation_id):
+def makeResponseTalkJS(question, conversation_id, messageId):
     global db
     global vector_store_query_engine_002
     if question is None:
@@ -76,6 +76,7 @@ def makeResponseTalkJS(question, conversation_id):
             "text": response,
             "sender": "23571113",
             "type": "UserMessage",
+            "referencedMessageId": messageId
         }
     ]
     requests.post(url=url, headers=headers, json=post_data)
