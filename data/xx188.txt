@@ -1,0 +1,2 @@
+question: How often should at-risk people be screened for diabetes?
+answer: People with risk factors should be screened for diabetes at least once every three years. Diabetes risk can also be estimated using a risk calculator from the American Diabetes Association. Doctors may measure fasting blood glucose levels and hemoglobin A1C level, or do an oral glucose tolerance test. If the test results are on the border between normal and abnormal, doctors do the screening tests more often, at least once a year.

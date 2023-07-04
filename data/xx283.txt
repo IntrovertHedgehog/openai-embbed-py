@@ -1,0 +1,3 @@
+question: How is hyperosmolar hyperglycemic state (HHS) diagnosed?
+answer: Doctors suspect the diagnosis of hyperosmolar hyperglycemic state (HHS) when people who have recently developed confusion are found to have a very high blood glucose level. They confirm the diagnosis by doing additional blood tests that show very concentrated blood and low ketones or acidity in the bloodstream.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/hyperosmolar-hyperglycemic-state-hhs

@@ -1,0 +1,2 @@
+question: What is the main risk factor contributing to onset of Type 2 diabetes?
+answer: Obesity is the chief risk factor for developing type 2 diabetes, and 80 to 90% of people with this disorder are overweight or obese. Because obesity causes insulin resistance, obese people may need large amounts of insulin to maintain normal blood glucose levels.

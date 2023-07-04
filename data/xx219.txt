@@ -1,0 +1,2 @@
+question: Why is urine test not recommended in monitoring my blood glucose?
+answer: Although urine can also be tested for the presence of glucose, checking urine is not a good way to monitor or adjust treatment. Urine testing can be misleading because the amount of glucose in the urine may not reflect the current level of glucose in the blood. Blood glucose levels can get very low or reasonably high without any change in the glucose levels in the urine.

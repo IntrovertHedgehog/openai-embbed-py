@@ -1,0 +1,2 @@
+question: Who is affected with Type 2 diabetes?
+answer: Type 2 diabetes was once rare in children and adolescents but has become more common. However, it usually begins in people older than 30 and becomes progressively more common with age. About 26% of people older than 65 have type 2 diabetes. 

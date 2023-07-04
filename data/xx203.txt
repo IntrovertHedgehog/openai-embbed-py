@@ -1,0 +1,2 @@
+question: How many types of diabetes are there?
+answer: There are two major types of diabetes: Type 1 diabetes and Type 2 diabetes.

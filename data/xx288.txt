@@ -1,0 +1,7 @@
+question: What are some common illnesses that can trigger diabetic ketoacidosis?
+answer: Some common illnesses that can trigger diabetic ketoacidosis include: 
+- Infections (such as pneumonia and urinary tract infections)
+- Heart attack
+- Stroke
+- Pancreatitis
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetic-ketoacidosis

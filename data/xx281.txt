@@ -1,0 +1,3 @@
+question: What causes hyperosmolar hyperglycemic state (HHS)?
+answer: Hyperosmolar hyperglycemic state (HHS) can occur for two main reasons: 1) People stop taking the medications for their diabetes; 2) An infection or other illness stresses the body. Also, certain medications, such as corticosteroids, can raise blood glucose levels and cause HHS. Medications such as diuretics, which people often take to treat high blood pressure, can worsen dehydration and trigger HHS.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/hyperosmolar-hyperglycemic-state-hhs

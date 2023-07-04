@@ -1,0 +1,5 @@
+question: Who is more prone to gestational diabetes?
+answer: Gestational diabetes is more common among the following:
+- Obese women
+- Women with a family history of diabetes
+- Certain ethnic groups, particularly Native Americans, Pacific Islanders, and women of Mexican, Indian, or Asian descent

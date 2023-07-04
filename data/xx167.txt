@@ -1,0 +1,2 @@
+question: How does smoking affect diabetics?
+answer: Smoking is bad for health, and especially dangerous for diabetes patients, as it results in the narrowing of blood vessels already caused by diabetes. This can lead to reduced blood flow to organs and result in serious complications.  

@@ -1,0 +1,3 @@
+question: How is diabetic ketoacidosis diagnosed?
+answer: Doctors diagnose diabetic ketoacidosis by measuring the level of ketones and acid in the blood and urine. People with diabetic ketoacidosis also have high blood glucose levels, but people may have high glucose levels without having diabetic ketoacidosis (read up on Hyperosmolar Hyperglycemic State). Doctors typically also do tests, such as a chest x-ray and urine analysis, to look for an underlying infection and electrocardiography (ECG) to look for a heart attack.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetic-ketoacidosis

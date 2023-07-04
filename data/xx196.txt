@@ -1,0 +1,9 @@
+question: What causes my blood glucose level to change?
+answer: Many things cause blood glucose levels to change:
+- Diet
+- Exercise
+- Stress
+- Illness
+- Medications
+- Time of day
+The blood glucose levels may jump after people eat foods they did not realize were high in carbohydrates. Emotional stress, an infection, and many medications tend to increase blood glucose levels. Blood glucose levels increase in many people in the early morning hours because of the normal release of hormones (growth hormone and cortisol), a reaction called the dawn phenomenon. Blood glucose may shoot too high if the body releases certain hormones in response to low blood glucose levels (Somogyi effect). Exercise may cause the levels of glucose in the blood to fall low.

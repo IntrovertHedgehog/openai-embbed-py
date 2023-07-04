@@ -1,0 +1,2 @@
+question: When should I start screening for risk factors contributing to diabetes?
+answer: Screenings for height and weight, waist circumference, blood pressure should be done annually for anyone older than 18 years old. Yearly screenings for glucose and cholesterol are also important for individuals above 40 years old.  Screenings should start earlier if there are any risk factors such as obesity or family history of diabetes.

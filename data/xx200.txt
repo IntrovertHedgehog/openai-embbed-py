@@ -1,0 +1,2 @@
+question: Should I record my blood glucose level?
+answer: Keeping a record of blood glucose levels and reporting them to their doctor or nurse helps doctors and nurses provide advice in adjusting the dose of insulin or the oral antihyperglycemic medication. Many people can learn to adjust the insulin dose on their own as necessary. Some people who have mild or early type 2 diabetes that is well-controlled with one or two medications may be able to monitor their fingerstick glucose levels relatively infrequently.

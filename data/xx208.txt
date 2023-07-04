@@ -1,0 +1,2 @@
+question: Who gets diagnosed with Type 2 diabetes?
+answer: Individuals over 45 years old have a higher risk of developing type 2 diabetes. However, children or young adults who have a family history of diabetes, or are obese may also develop this condition.

@@ -1,0 +1,3 @@
+question: What causes Type-2 Diabetes Mellitus?
+answer: There are 2 primary causes of type-2 diabetes. The first cause is insulin resistance, where muscle, fat and liver cells become resistant to insulin. Insulin does not interact with these cells in a normal way, as such they don’t take in enough sugar. The second cause is that blood sugar levels cannot be controlled by insulin produced by the pancreas. As a result, insufficient insulin is produced by the pancreas to control blood sugar levels.
+Source: https://www.diabetes.org.sg/about-diabetes/causes-of-diabetes/

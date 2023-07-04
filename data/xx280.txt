@@ -1,0 +1,3 @@
+question: What is hyperosmolar hyperglycemic state (HHS)?
+answer: Hyperosmolar hyperglycemic state (HHS) is a complication of diabetes mellitus that most often occurs in type 2 diabetes. Its symptoms include extreme dehydration and confusion, and it is diagnosed by blood tests that show very high levels of glucose and very concentrated blood. Treatment involves intravenous fluids and insulin. Extreme complications, however, can lead to coma, seizures, and death.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/hyperosmolar-hyperglycemic-state-hhs

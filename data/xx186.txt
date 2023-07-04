@@ -1,0 +1,2 @@
+question: Who should be screened for Type 1 diabetes?
+answer: Doctors do not do routine tests to screen for type 1 diabetes even in people at high risk of type 1 diabetes (such as siblings or children of people who have type 1 diabetes). 

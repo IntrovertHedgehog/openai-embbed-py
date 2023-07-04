@@ -1,0 +1,11 @@
+question: What medication can I take to lower blood glucose level?
+answer: Oral antihyperglycemic medication can often lower blood glucose levels adequately in people with type 2 diabetes. However, they are not effective in type 1 diabetes. There are several types, but oral antihyperglycemic medications work in four major ways:
+- Insulin secretagogues stimulate the pancreas to produce more insulin
+- Insulin sensitisers do not affect the release of insulin but rather increase the body’s response to it
+- Some medications delay absorption of glucose by the intestine
+- Some medications increase glucose excretion in the urine
+Insulin secretagogues include sulfonylureas (for example, glyburide, glipizide, and glimepiride) and meglitinides (for example, repaglinide and nateglinide).
+Insulin sensitizers include biguanides (for example, metformin) and thiazolidinediones (for example, pioglitazone).
+Medications that delay absorption of glucose by the intestine include alpha-glucosidase inhibitors (for example, acarbose and miglitol).
+Medications that increase glucose secretion in the urine include sodium-glucose co-transporter-2 (SGLT2) inhibitors (for example, canagliflozin, dapagliflozin, and empagliflozin).
+Dipeptidyl peptidase-4 (DPP 4) inhibitors (for example, sitagliptin, saxagliptin, linagliptin, and alogliptin) both stimulate the pancreas to produce more insulin and delay the absorption of glucose by the intestine. These medications work by increasing glucagon-like peptide 1 (GLP-1).

@@ -1,0 +1,3 @@
+question: What is pre-diabetes?
+answer: Pre-diabetes may be defined as Impaired Fasting Glucose (IFT) (if you have higher than normal sugar levels after a period of fasting), or as Impaired Glucose Tolerance (IGT) (if you have higher than normal sugar levels after eating). It is characterized by high blood glucose levels that are not yet high enough to be classified as diabetes.
+Source: https://www.diabetes.org.sg/about-diabetes/what-is-pre-diabetes/

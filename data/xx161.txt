@@ -1,0 +1,5 @@
+question: How do I treat Type 2 diabetes?
+answer: Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels. These can include insulin injections or other medicines. Some examples include:
+- Metformin
+- Sulfonylureas
+- Sodium-glucose co-transporters type 2 (SGLT-2) inhibitors

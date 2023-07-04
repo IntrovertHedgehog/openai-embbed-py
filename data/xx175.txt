@@ -1,0 +1,5 @@
+question: Can other disorders or medications lead to development of Type 2 diabetes?
+answer: Certain disorders and medications can affect the way the body uses insulin and can lead to type 2 diabetes. Examples of common states (conditions) that result in impaired insulin use are: 
+- High levels of corticosteroids (most commonly due to use of corticosteroid medications, such as prednisone, or Cushing syndrome)
+- Pregnancy (gestational diabetes)
+Diabetes also may occur in people with excess production of growth hormone (acromegaly) and in people with certain hormone-secreting tumors. Severe or recurring pancreatitis and other disorders that directly damage the pancreas can lead to diabetes.

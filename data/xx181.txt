@@ -1,0 +1,2 @@
+question: What is the use of measuring blood glucose?
+answer: Doctors check blood glucose levels in people who have symptoms of diabetes, such as increased thirst, urination, or hunger. Additionally, doctors may check blood glucose levels in people who have disorders that can be complications of diabetes, such as frequent infections, foot ulcers, and yeast infections.

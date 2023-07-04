@@ -1,0 +1,2 @@
+question: Is CGM suitable for me?
+answer: CGM systems are particularly helpful in certain circumstances, such as in people with type 1 diabetes who have frequent, rapid changes in blood glucose (particularly when the glucose levels sometimes go very low), which are difficult to identify with fingerstick testing. CGM systems allow people to measure the period of time that their blood glucose stays within a certain range, and doctors use this measurement to set goals for treatment and adjust insulin dose.

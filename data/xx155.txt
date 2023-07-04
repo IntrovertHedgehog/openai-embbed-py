@@ -1,0 +1,2 @@
+question: What is gestational diabetes?
+answer: Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy.

@@ -1,0 +1,3 @@
+question: What is diabetic ketoacidosis? 
+answer: Diabetic ketoacidosis is an acute complication of diabetes that occurs mostly in type 1 diabetes mellitus. Symptoms include nausea, vomiting, abdominal pain, and a characteristic fruity odor on the breath. Diabetic ketoacidosis is diagnosed by blood tests that show high levels of glucose, ketones, and acid. Treatment involves intravenous fluid replacement and insulin. Without treatment, diabetic ketoacidosis can progress to coma and death.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetic-ketoacidosis

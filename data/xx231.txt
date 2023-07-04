@@ -1,0 +1,5 @@
+question: Why did my doctor prescribe other medication not for lowering blood glucose level?
+answer: Because people with diabetes mellitus are at risk of complications, such as heart attacks and strokes, it is important that people take medications to prevent or treat these complications. Unless there is a reason people cannot take one of these medications (for example, an allergy to the medication), they may be given the following:
+- Angiotensin converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARBs): For people with diabetes and high blood pressure or chronic kidney disease
+- Aspirin: For people with diabetes and risk factors for cardiovascular disease
+- Statins: For people 40 to 75 years-old with diabetes to decrease the risk of cardiovascular disease

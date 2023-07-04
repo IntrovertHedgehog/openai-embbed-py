@@ -1,0 +1,2 @@
+question: Can I prevent Type 1 diabetes?
+answer: No treatments prevent the onset of type 1 diabetes mellitus. Some medications may induce remission of early type 1 diabetes in some people, possibly because they prevent the immune system from destroying the cells of the pancreas. However, these changes are temporary, and the medications cause side effects that limit their use.

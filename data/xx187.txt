@@ -1,0 +1,15 @@
+question: Who should be screened for Type 2 diabetes?
+answer: it is important to do screening tests in people at risk of type 2 diabetes, including those who:
+- Are 35 years or older
+- Have overweight or obesity
+- Have a sedentary lifestyle
+- Have a family history of diabetes
+- Have prediabetes
+- Have had diabetes during pregnancy or had a baby who weighed more than 9 pounds (4,000 grams) at birth
+- Have high blood pressure
+- Have a lipid disorder such as high cholesterol
+- Have cardiovascular disease
+- Have fatty liver disease
+- Have polycystic ovary disease
+- Have racial or ethnic ancestry that is associated with high risk
+- Have HIV infection

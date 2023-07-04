@@ -1,0 +1,11 @@
+question: What are the symptoms of Type-1 Diabetes?
+answer: The symptoms of type-1 diabetes are as follows:
+- Increased/Abnormal thirst (Polydipsia)
+- Frequent urination (Polyuria)
+- Extreme/Frequent hunger (Polyphagia)
+- Dramatic weight loss in a short period of time
+- Mood changes and irritability
+- Weakness and fatigue
+- Blurred vision
+- Bedwetting
+Source: https://www.diabetes.org.sg/about-diabetes/symptoms/

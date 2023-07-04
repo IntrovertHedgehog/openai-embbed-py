@@ -1,0 +1,2 @@
+question: What does it mean to be diabetic?
+answer: Diabetes, also known as Diabetes Mellitus, is a condition where one’s blood glucose levels are higher than normal. People with diabetes have high levels of glucose in their blood because their bodies are unable to process the glucose. This can be due to a lack of insulin being produced by the body (Type 1 diabetes) or their body cells having developed a resistance to insulin (Type 2 diabetes).

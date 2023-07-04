@@ -1,0 +1,2 @@
+question: What’s the difference between Type 1 and Type 2 diabetes?
+answer: In Type 1 diabetes, In this condition, the pancreas makes little or no insulin. Without enough insulin, glucose builds up in the bloodstream instead of going into the cells. This buildup of glucose in the blood is called hyperglycemia. Over time, high glucose levels can affect the nerves and blood vessels and damage many organs and tissues of the body. People with Type 2 diabetes can produce insulin, but their bodies are unable to use it to break down glucose.

@@ -1,0 +1,2 @@
+question: Who is affected with Type 1 diabetes?
+answer: Only about 5 to 10% of all people with diabetes have type 1 disease. Most people who have type 1 diabetes develop the disease before age 30, although it can develop later in life.

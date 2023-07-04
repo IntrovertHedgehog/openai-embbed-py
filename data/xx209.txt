@@ -1,0 +1,2 @@
+question: When should I start screening for diabetes?
+answer: Individuals aged 40 years old and above are recommended to screen for diabetes at least once a year.

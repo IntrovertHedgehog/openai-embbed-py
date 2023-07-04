@@ -1,0 +1,5 @@
+question: Why do complications develop with diabetes mellitus?
+answer: Most complications of diabetes are the result of problems with blood vessels. Glucose levels that remain high over a long time cause both the small and large blood vessels to narrow. The narrowing reduces blood flow to many parts of the body, leading to problems. There are several causes of blood vessel narrowing:
+- Complex sugar-based substances build up in the walls of small blood vessels, causing them to thicken and leak.
+- Poor control of blood glucose levels causes the levels of fatty substances in the blood to rise, resulting in atherosclerosis and decreased blood flow in the larger blood vessels.
+Atherosclerosis leads to heart attacks and strokes. Atherosclerosis is between 2 and 4 times more common and tends to occur at a younger age in people with diabetes than in people who do not have diabetes. Over time, narrowing of blood vessels can harm the heart, brain, legs, eyes, kidneys, nerves, and skin, resulting in angina, heart failure, strokes, leg cramps during walking (claudication), poor vision, chronic kidney disease, damage to nerves (neuropathy), and skin breakdown.

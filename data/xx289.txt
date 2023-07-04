@@ -1,0 +1,3 @@
+question: What are the symptoms of diabetic ketoacidosis?
+answer: The initial symptoms of diabetic ketoacidosis include excessive thirst and urination, weight loss, nausea, vomiting, fatigue, and—particularly in children—abdominal pain. Breathing tends to become deep and rapid as the body attempts to correct the blood’s acidity. The breath has a fruity odor similar to nail polish remover because of the smell of the ketones escaping into the breath. Without treatment, diabetic ketoacidosis can progress to coma and death (especially in children).
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetic-ketoacidosis

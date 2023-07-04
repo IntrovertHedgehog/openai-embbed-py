@@ -1,0 +1,2 @@
+question: How do I treat Type 1 diabetes?
+answer: People with type 1 diabetes need insulin injections for survival.

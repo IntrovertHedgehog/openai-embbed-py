@@ -1,0 +1,7 @@
+question: What can I do to monitor diabetes complications?
+answer: At the time of diagnosis and then at least yearly, people with Type 2 diabetes are monitored for the presence of diabetes complications, such as kidney, eye, and nerve damage. In people with Type 1 diabetes, doctors begin monitoring for complications 5 years after diagnosis. Typical screening tests include the following:
+- Foot examination to test sensation and look for signs of poor circulation (ulcers, hair loss)
+- Eye examination (done by an eye specialist)
+- Urine and blood tests of kidney function
+- Blood tests for cholesterol levels
+- Sometimes an electrocardiogram

@@ -1,0 +1,2 @@
+question: What causes hypoglycemia?
+answer: Hypoglycemia is most often caused by medications taken to control diabetes. Much less common causes of hypoglycemia include other medications, critical illness or organ failure, a reaction to carbohydrates (in susceptible people), an insulin-producing tumor in the pancreas, and some types of bariatric (weight loss) surgery. 

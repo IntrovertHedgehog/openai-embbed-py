@@ -1,0 +1,8 @@
+question: What are the long-term complications of diabetes?
+answer: Uncontrolled diabetes can cause the blood sugar to fluctuate between very high (hyperglycaemia) and very low (hypoglycaemia). Both situations can cause a diabetic to become very sick very quickly and even go into a coma. Other long-term complications of diabetes include: 
+- Coronary heart diseases such as angina or heart attack
+- Stroke
+- Eye disease​
+- Kidney disease
+- Foot diseases such as numbness, ulcers and even gangrene
+- Nerve disease which can lead to problems such as impotence and problems in movement of bowels

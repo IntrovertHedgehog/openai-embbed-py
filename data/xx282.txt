@@ -1,0 +1,3 @@
+question: What are the symptoms of hyperosmolar hyperglycemic state (HHS)?
+answer: The main symptom of hyperosmolar hyperglycemic state (HHS) is a mental change. The change ranges from mild confusion and disorientation to drowsiness and coma. Some people have seizures and/or temporary partial paralysis resembling a stroke. Up to 20% of people die. Other symptoms that may precede the change in mental state include frequent urination and extreme thirst.
+Source: https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/hyperosmolar-hyperglycemic-state-hhs

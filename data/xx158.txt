@@ -1,0 +1,2 @@
+question: What is Type 1 diabetes?
+answer: Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterised by deficient insulin production and requires daily administration of insulin. Neither its cause nor the means to prevent it are known.

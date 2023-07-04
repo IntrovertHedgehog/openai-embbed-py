@@ -1,0 +1,3 @@
+question: What is Body Mass Index (BMI)?
+answer: BMI is a tool to assess your body fat by calculating the ratio: BMI = Weight (kg) / (Height x Height (m)). International Obesity Task Force recommends BMI for Asians: 18.5 to 22.9 kg/m^2. People with BMI of 27 kg/m^2 or more are prone to diabetes.
+Source: Red Ants Crawling to My Urine

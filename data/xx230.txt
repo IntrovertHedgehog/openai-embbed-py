@@ -1,0 +1,2 @@
+question: Why do I need to take medication for Type 2 diabetes?
+answer: People with Type 2 diabetes are often prescribed oral antihyperglycemic medications if diet and exercise fail to lower the levels of glucose in the blood adequately. The medications are sometimes taken only once a day, in the morning, although some people need two or three doses. More than one type of oral medication, and/or an oral medication plus insulin or an injectable glucagon-like peptide 1 (GLP-1) medication or dual incretin agonist, may be used if one medication is not adequate.

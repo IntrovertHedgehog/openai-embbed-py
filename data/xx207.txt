@@ -1,0 +1,2 @@
+question: Who gets diagnosed with Type 1 diabetes?
+answer: Type 1 diabetes occurs in individuals at any age, although it is most often diagnosed in children or young adults.

@@ -1,0 +1,6 @@
+question: Can I prevent Type 2 diabetes?
+answer: Lifestyle changes are the best way to prevent or delay the onset of type 2 diabetes. To help prevent type 2 diabetes and its complications, people should:
+- Reach and keep a healthy body weight
+- Stay physically active with at least 30 minutes of moderate exercise everyday
+- Eat a healthy diet and avoid sugar and saturated fats
+- Not smoke tobacco

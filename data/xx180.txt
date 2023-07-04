@@ -1,0 +1,8 @@
+question: What are some complications brought about by diabetes?
+answer: Diabetes damages blood vessels, causing them to narrow and therefore restricting blood flow. Because blood vessels throughout the body are affected, people may have many complications of diabetes. Many organs can be affected, particularly the following:
+- Brain, causing stroke
+- Eyes (diabetic retinopathy), causing blindness
+- Heart, causing heart attack
+- Kidneys (diabetic nephropathy), causing chronic kidney disease
+- Nerves (diabetic neuropathy), causing decreased sensation in mainly in the feet and legs
+High blood glucose levels also cause disturbances in the body's immune system, so people with diabetes mellitus are particularly susceptible to bacterial and fungal infections.

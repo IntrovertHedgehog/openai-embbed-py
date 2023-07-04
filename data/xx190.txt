@@ -1,0 +1,5 @@
+question: Why do I need to manage my diet?
+answer: Diet management is very important in people with either type of diabetes mellitus. Doctors recommend a healthy, balanced diet and efforts to maintain a healthy weight. People with diabetes can benefit from meeting with a dietitian or a diabetes educator to develop an optimal eating plan. Such a plan includes
+- Avoiding simple sugars and processed foods
+- Increasing dietary fiber
+- Limiting portions of carbohydrate-rich and fatty foods (especially saturated fats)

@@ -1,0 +1,2 @@
+question: How to manage Type 1 diabetes?
+answer: Lifelong insulin injections are required to ensure that the body is able to process glucose effectively.

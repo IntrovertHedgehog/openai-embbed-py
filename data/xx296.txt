@@ -1,0 +1,3 @@
+question: What is insulin resistance?
+answer: People with insulin resistance are unable to easily convert sugar to energy. This is because their muscles, fat, and liver cells don’t respond to insulin well, are resistant or cannot use insulin effectively. Consequently, their pancreas produces more insulin to help glucose enter their cells. Their blood sugar levels therefore rise over time. Type-2 diabetes, high blood pressure, high cholesterol, and obesity are problems related to insulin resistance syndrome.
+Source: https://www.diabetes.org.sg/about-diabetes/what-is-insulin-resistance/

@@ -1,0 +1,2 @@
+question: Why is my blood glucose level frequently unstable?
+answer: People with type 1 diabetes may have more frequent swings in blood glucose levels because insulin production is completely absent. Infection, delayed movement of food through the stomach, and other hormonal disorders may also contribute to blood glucose swings. In all people who have difficulty controlling blood glucose, doctors look for other disorders that might be causing the problem and also give people additional education on how to monitor diabetes and take their medications.

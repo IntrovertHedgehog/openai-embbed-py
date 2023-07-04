@@ -1,0 +1,8 @@
+question: What are the symptoms of diabetes?
+answer: There are many different symptoms of diabetes, some of which include:
+- Frequent urination
+- Excessive thirst
+- Weight loss despite eating well
+- Extreme fatigue
+- Sores that don’t heal
+- Blurry vision

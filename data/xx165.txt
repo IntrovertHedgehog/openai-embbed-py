@@ -1,0 +1,2 @@
+question: What is glucose?
+answer: Glucose is the type of sugar that exists in our blood and is the main source of energy for our body. It is derived from carbohydrates which are found in foods such as rice, noodles, bread, and sugar.

@@ -1,0 +1,2 @@
+question: What is diabetic retinopathy?
+answer: Diabetic retinopathy is damage to the retina (the transparent, light-sensitive structure at the back of the eye) as a result of diabetes. 

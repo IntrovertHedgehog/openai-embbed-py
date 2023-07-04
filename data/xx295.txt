@@ -1,0 +1,8 @@
+question: When should I test for pre-diabetes?
+answer: Pre-diabetes can go undetected for years because there are no symptoms, so it often goes undetected until serious health problems arise. You should talk to your doctor about getting your blood sugar tested. We highly recommend this to those that have any of the risk factors for pre-diabetes such as:
+- Obesity 
+- Being 40 years or older
+- Having a parent, brother or sister who has type-2 diabetes
+- Physically active less than 3 times a week
+- A child you gave birth to weighed more than 9 pounds or you had gestational diabetes (diabetes during pregnancy)
+Source: https://www.diabetes.org.sg/about-diabetes/what-is-pre-diabetes/

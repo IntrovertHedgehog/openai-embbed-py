@@ -1,0 +1,2 @@
+question: What causes Type 2 diabetes?
+answer: In Type 2 diabetes (formerly called non–insulin-dependent diabetes or adult-onset diabetes), the pancreas often continues to produce insulin, sometimes even at higher-than-normal levels, especially early in the disease. However, the body develops resistance to the effects of insulin, so there is not enough insulin to meet the body’s needs. As Type 2 diabetes progresses, the insulin-producing ability of the pancreas decreases. 

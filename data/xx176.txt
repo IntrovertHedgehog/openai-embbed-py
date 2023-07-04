@@ -1,0 +1,2 @@
+question: What diet to follow for diabetics?
+answer: People with diabetes need to follow a healthy diet that is low in refined carbohydrates (including sugar), saturated fat, and processed foods.

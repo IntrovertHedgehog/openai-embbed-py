@@ -1,0 +1,6 @@
+question: What are the ideal ranges to keep in mind for diabetes treatment?
+answer: Experts recommend that people keep their blood glucose levels
+- Between 80 and 130 mg/dL (4.4 and 7.2 mmol/L) fasting (before meals)
+- Less than 180 mg/dL (10.0 mmol/L) 2 hours after meals
+Hemoglobin A1C levels should be less than 7%.
+Some other goals are keeping systolic blood pressure less than 140 mm Hg and diastolic blood pressure less than 90 mm Hg. For people with diabetes who have heart disease or are at high risk for heart disease, the blood pressure goal is less than 130/80 mm Hg.

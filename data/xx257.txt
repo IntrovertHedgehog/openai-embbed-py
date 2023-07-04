@@ -1,0 +1,3 @@
+question: How do I calculate my Body Mass Index (BMI)?
+answer: This is the widely accepted method of categorising your weight, based on a formula derived from your height and weight. Body Mass Index or BMI is calculated as: weight (kg) / (height (m) x height (m)). A BMI of 18.5 – 22.9 is considered healthy, whereas a result over 23 means your health is at risk. You are considered obese if you have a BMI of 30 and above.
+Source: HealthHub (https://www.healthhub.sg/live-healthy/764/its-not-a-small-world-after-all#:~:text=Waist%20circumference&text=If%20your%20waist%20size%20is,the%20lower%20ribs%20and%20navel.)
